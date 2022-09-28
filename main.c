@@ -12,7 +12,7 @@ int main(int argc, char *argv[]){
 	a=3;
 	b=4;
 	c=5;
-	/*y=m*x+b; */
+	/*y=m*x+b;  */
 	
 	y=(a*x*x)+(b*x)+c;
 	m=(x+y+z)/3;
